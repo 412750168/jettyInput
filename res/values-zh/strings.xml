@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">手机遥控</string>
+    <string name="barcode_scan_tips">下载android手机遥控到你的手机</string>
+    <string name="barcode_scan_me">扫一扫</string>
+     <string name="barcode_service_err">服务启动失败，请检查网络是否开启或重启应用</string>
+     <string name="barcode_input_pre">或在浏览器输入：</string>
+     <string name="barcode_scan_notice">请保证手机与云电视盒在同一WIFI局域网内（此功能仅支持安卓设备）</string>
+     <string name="barcode_scan_notice1">请保证手机能访问因特网，与云电视盒在同一WIFI局域网内（此功能仅支持安卓设备）</string>
+</resources>

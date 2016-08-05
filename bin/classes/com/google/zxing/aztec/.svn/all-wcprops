@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/aztec
+END
+AztecDetectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/aztec/AztecDetectorResult.java
+END
+AztecWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/aztec/AztecWriter.java
+END
+AztecReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/aztec/AztecReader.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/common/detector
+END
+WhiteRectangleDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/common/detector/WhiteRectangleDetector.java
+END
+MonochromeRectangleDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/common/detector/MonochromeRectangleDetector.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/common/detector/MathUtils.java
+END

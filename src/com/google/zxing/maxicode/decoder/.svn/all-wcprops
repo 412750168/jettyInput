@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/maxicode/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/maxicode/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/maxicode/decoder/BitMatrixParser.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/maxicode/decoder/Decoder.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs
+END
+jetty-servlet-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-servlet-8.1.10.v20130312.jar
+END
+jetty-server-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-server-8.1.10.v20130312.jar
+END
+jetty-websocket-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-websocket-8.1.10.v20130312.jar
+END
+jetty-io-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-io-8.1.10.v20130312.jar
+END
+jetty-security-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-security-8.1.10.v20130312.jar
+END
+servlet-api-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/servlet-api-3.0.jar
+END
+jetty-continuation-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-continuation-8.1.10.v20130312.jar
+END
+jetty-util-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-util-8.1.10.v20130312.jar
+END
+jetty-client-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-client-8.1.10.v20130312.jar
+END
+jetty-http-8.1.10.v20130312.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/jetty-http-8.1.10.v20130312.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/libs/slf4j-api-1.5.8.jar
+END

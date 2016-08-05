@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/midapp/!svn/ver/3511/remoteinput/jettyInput/res/layout
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/midapp/!svn/ver/3360/remoteinput/jettyInput/res/layout/activity_main.xml
+END
+share.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/share.xml
+END
+capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/capture.xml
+END
+search_book_contents_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/search_book_contents_header.xml
+END
+search_book_contents_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/search_book_contents_list_item.xml
+END
+app_picker_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/app_picker_list_item.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/help.xml
+END
+history_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/history_list_item.xml
+END
+bookmark_picker_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/bookmark_picker_list_item.xml
+END
+search_book_contents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/search_book_contents.xml
+END
+encode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/midapp/!svn/ver/1677/remoteinput/jettyInput/res/layout/encode.xml
+END
+mouse_window.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/midapp/!svn/ver/3511/remoteinput/jettyInput/res/layout/mouse_window.xml
+END

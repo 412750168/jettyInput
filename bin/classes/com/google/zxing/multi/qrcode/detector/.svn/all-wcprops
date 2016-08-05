@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/multi/qrcode/detector
+END
+MultiDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/multi/qrcode/detector/MultiDetector.java
+END
+MultiFinderPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/multi/qrcode/detector/MultiFinderPatternFinder.java
+END

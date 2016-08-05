@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <string name="result_tel">전화번호 찾기</string>
+  <string name="result_text">본문 찾기</string>
+  <string name="result_uri">URL 찾기</string>
+  <string name="result_wifi">WLAN 구성도 찾기</string>
+  <string name="sbc_name">구를 도서 검색</string>
+  <string name="wifi_changing_network">에 연결 요청</string>
+  <string name="wifi_ssid_label">네트웍 이름</string>
+  <string name="wifi_type_label">형태</string>
+    <string name="barcode_scan_tips">전화기에서 원격 제어 기능을 다운 로드</string>
+    <string name="barcode_scan_me">나를 스캔</string>
+     <string name="barcode_service_err">서비스 시작 오류. 네트웍을 점검하시고 다시 시작해 주세요</string>
+     <string name="barcode_input_pre">브라우즈  입력：</string>
+     <string name="barcode_scan_notice">동일 네트웍에 단말기와 비디오 박스를 확인하시오  이 기능은 오직 안드로이만 지원합니다.</string>
+     <string name="barcode_scan_notice1">단말기가 인터넷에 접속됬는지 확인</string>
+     <string name="barcode_surpport">이 기능은 오직 안드로이만 지원합니다.</string>
+</resources>

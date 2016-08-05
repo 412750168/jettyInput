@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder
+END
+BarcodeMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder/BarcodeMatrix.java
+END
+PDF417.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder/PDF417.java
+END
+BarcodeRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder/BarcodeRow.java
+END
+PDF417ErrorCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder/PDF417ErrorCorrection.java
+END
+Dimensions.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder/Dimensions.java
+END
+Compaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder/Compaction.java
+END
+PDF417HighLevelEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/encoder/PDF417HighLevelEncoder.java
+END

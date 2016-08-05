@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/detector
+END
+Detector.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/detector/Detector.java
+END
+PDF417DetectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/detector/PDF417DetectorResult.java
+END

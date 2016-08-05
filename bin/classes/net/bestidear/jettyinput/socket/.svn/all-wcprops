@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/midapp/!svn/ver/3500/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket
+END
+RCtcpThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/midapp/!svn/ver/3550/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/RCtcpThread.java
+END
+SharePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/midapp/!svn/ver/3579/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/SharePreferences.java
+END
+RCService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/midapp/!svn/ver/3579/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/RCService.java
+END
+KeyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/midapp/!svn/ver/3579/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/KeyMap.java
+END
+RCServiceReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/midapp/!svn/ver/3540/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/RCServiceReceiver.java
+END
+TaskThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/midapp/!svn/ver/3113/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/TaskThread.java
+END
+RCBluetoothService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/midapp/!svn/ver/3632/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/RCBluetoothService.java
+END
+RCtcpService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/midapp/!svn/ver/3579/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/RCtcpService.java
+END
+RCSensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/midapp/!svn/ver/3113/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/RCSensor.java
+END
+RCudpService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/midapp/!svn/ver/3113/remoteinput/jettyInput/src/net/bestidear/jettyinput/socket/RCudpService.java
+END

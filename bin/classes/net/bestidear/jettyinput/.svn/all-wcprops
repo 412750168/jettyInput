@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/midapp/!svn/ver/3501/remoteinput/jettyInput/src/net/bestidear/jettyinput
+END
+WifiSetServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/midapp/!svn/ver/3113/remoteinput/jettyInput/src/net/bestidear/jettyinput/WifiSetServlet.java
+END
+DeviceTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/midapp/!svn/ver/3501/remoteinput/jettyInput/src/net/bestidear/jettyinput/DeviceTools.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/midapp/!svn/ver/3501/remoteinput/jettyInput/src/net/bestidear/jettyinput/MainActivity.java
+END
+ControlServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/midapp/!svn/ver/3501/remoteinput/jettyInput/src/net/bestidear/jettyinput/ControlServlet.java
+END
+UnzipFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/midapp/!svn/ver/3113/remoteinput/jettyInput/src/net/bestidear/jettyinput/UnzipFile.java
+END
+WifiConnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/midapp/!svn/ver/3113/remoteinput/jettyInput/src/net/bestidear/jettyinput/WifiConnect.java
+END
+ControlSocketServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/midapp/!svn/ver/3113/remoteinput/jettyInput/src/net/bestidear/jettyinput/ControlSocketServlet.java
+END
+HostInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/midapp/!svn/ver/1775/remoteinput/jettyInput/src/net/bestidear/jettyinput/HostInterface.java
+END

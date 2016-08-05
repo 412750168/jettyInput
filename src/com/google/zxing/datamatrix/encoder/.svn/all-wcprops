@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder
+END
+EdifactEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/EdifactEncoder.java
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/Encoder.java
+END
+ErrorCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/ErrorCorrection.java
+END
+SymbolInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/SymbolInfo.java
+END
+EncoderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/EncoderContext.java
+END
+TextEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/TextEncoder.java
+END
+C40Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/C40Encoder.java
+END
+Base256Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/Base256Encoder.java
+END
+HighLevelEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/HighLevelEncoder.java
+END
+ASCIIEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/ASCIIEncoder.java
+END
+DataMatrixSymbolInfo144.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/DataMatrixSymbolInfo144.java
+END
+SymbolShapeHint.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/SymbolShapeHint.java
+END
+X12Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/X12Encoder.java
+END
+DefaultPlacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/datamatrix/encoder/DefaultPlacement.java
+END

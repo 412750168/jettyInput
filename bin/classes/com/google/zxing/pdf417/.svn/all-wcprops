@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417
+END
+PDF417Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/PDF417Writer.java
+END
+PDF417ResultMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/PDF417ResultMetadata.java
+END
+PDF417Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/PDF417Reader.java
+END
+PDF417Common.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/PDF417Common.java
+END

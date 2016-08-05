@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/DecodedBitStreamParser.java
+END
+BarcodeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/BarcodeMetadata.java
+END
+DetectionResultRowIndicatorColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/DetectionResultRowIndicatorColumn.java
+END
+PDF417CodewordDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/PDF417CodewordDecoder.java
+END
+Codeword.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/Codeword.java
+END
+DetectionResultColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/DetectionResultColumn.java
+END
+BarcodeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/BarcodeValue.java
+END
+PDF417ScanningDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/PDF417ScanningDecoder.java
+END
+DetectionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/DetectionResult.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/pdf417/decoder/BoundingBox.java
+END

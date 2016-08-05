@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/oned/rss/expanded
+END
+ExpandedRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/oned/rss/expanded/ExpandedRow.java
+END
+RSSExpandedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/oned/rss/expanded/RSSExpandedReader.java
+END
+BitArrayBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/oned/rss/expanded/BitArrayBuilder.java
+END
+ExpandedPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/midapp/!svn/ver/3506/remoteinput/jettyInput/src/com/google/zxing/oned/rss/expanded/ExpandedPair.java
+END
